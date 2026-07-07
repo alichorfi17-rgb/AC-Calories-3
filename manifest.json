@@ -1,0 +1,31 @@
+{
+  "name": "AC Calories",
+  "short_name": "AC Calories",
+  "description": "تطبيق تتبع السعرات الحرارية للجزائريين",
+  "start_url": "/AC-Calories/",
+  "scope": "/AC-Calories/",
+  "display": "standalone",
+  "background_color": "#0D0D0D",
+  "theme_color": "#D90429",
+  "orientation": "portrait-primary",
+  "lang": "ar",
+  "dir": "rtl",
+  "categories": [
+    "health",
+    "fitness"
+  ],
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
